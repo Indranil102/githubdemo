@@ -1,2 +1,3 @@
 # githubdemo
-learning gitbub
+learning github
+Author - Indranil Samanta
